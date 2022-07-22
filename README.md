@@ -29,7 +29,7 @@
 </p>
 </div>
 <p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐀𝐛𝐮 𝐒𝐞𝐫
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 ex mods
     <br>
        | © |
         Reserved |
