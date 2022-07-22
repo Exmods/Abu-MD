@@ -1,12 +1,12 @@
 {
-	"name": "Abu-MD",
-	"description": "Whatsapp Multi Version Abu Bot.",
-	"logo": "https://i.imgur.com/OseHc3b.jpg",
+	"name": "Eaxmods",
+	"description": "Whatsapp Multi Version ex Bot.",
+	"logo": "https://i.imgur.com/bxqD4MQ.jpeg",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/Afx-Abu/Abu-MD",
+	"repository": "https://github.com/Exmods/Abu-MD",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -17,7 +17,7 @@
         "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
             "required": false,
-            "value":"jid,jid"
+            "value":"ex,ex"
         },
         "READ_MESSAGES": {
             "description": "Bot will read all messages. Can be also false",
@@ -42,7 +42,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ᴀʙᴜ ᴍᴅ ᴡᴀ ʙᴏᴛ"
+            "value":"ᴇx ᴡᴀ ᴍᴅ ʙᴏᴛ
         },
         "CHATBOT": {
             "description": "chat bot ! auto replay",
@@ -52,12 +52,12 @@
         "BOT_NAME": {
             "description": "Name of Your Bot",
             "required": true,
-            "value":"ʏᴏᴜʀ ʙᴏᴛ ɴᴀᴍᴇ"
+            "value":"ᴇx ᴡᴀ ᴍᴅ ʙᴏᴛ"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"ᴀʙᴜ;ᴊsʟ-4ʙᴜ;https://i.imgur.com/OseHc3b.jpg"
+            "value":"ᴀʙᴜ;ᴊsʟ-4ʙᴜ;https://i.imgur.com/bxqD4MQ.jpeg"
         },
         "MODE": {
             "description": "Work Type Private or public",
@@ -67,15 +67,15 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"917025994178"
+            "value":"+19027069651"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
             "required": false,
-            "value":"{pp} Active since {uptime}\n User:{sender}"
+            "value":"{pp} Active since {uptime}\n User:{https://i.imgur.com/H3n4GjM.jpeg}"
         },
        "SESSION": {
-            "description": "Your MD Qr Code",
+            "description": "Your ex bot MD Qr Code",
             "required": true
              
         }
