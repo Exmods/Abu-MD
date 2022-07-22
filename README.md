@@ -37,7 +37,7 @@
 </p>
 
 
-<a href="https://github.com/Afx-Abu/Abu_ser/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/Afx-Abu/Abu-MD/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
 <div>
 <a href="https://raganork-india.vercel.app/qr"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
